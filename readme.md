@@ -18,6 +18,7 @@
 | 2017_agrimonia | <image src=".images/coronasdk.png" width=50>, <image src=".images/lua.png" height=40> | 2017 서강대학교 평생교육원 MTEC 게임 공모전 | [➜](https://github.com/ITJEONG-DEV/2017_agrimonia/) |
 | 2017_app | <image src=".images/androidstudio.png" height=40>, <image src=".images/java.png" height=40> | 어플리케이션 제작 수업 예제 모음 | [➜](https://github.com/ITJEONG-DEV/2017_app/) |
 | 2017_LifeGame | <image src=".images/androidstudio.png" height=40>, <image src=".images/java.png" height=40> / <image src=".images/coronasdk.png" width=50>, <image src=".images/lua.png" height=40> | 인생게임. 어플리케이션 제작 수업 수행평가 제출물 | [➜](https://github.com/ITJEONG-DEV/2017_LifeGame/) |
+| 2017_KoreaGameJam | <image src=".images/coronasdk.png" width=50>, <image src=".images/lua.png" height=40> | 대한민국 게임잼 2회 | [➜](https://github.com/connect-pad/2017_KoreaGameJam) |
 
 <br>
 
@@ -26,6 +27,10 @@
 | :--------: | :--------: | :--------: | :--------: |
 | 2018_c_term_project | <image src=".images/c.svg" height=40> | c언어 수업 텀 프로젝트 | [➜](https://github.com/ITJEONG-DEV/2018_c_term_project/) |
 | 2018_genetic_algorithm | <image src=".images/coronasdk.png" width=50>, <image src=".images/lua.png" height=40> | 기술 보고서 작성을 위한 유전 알고리즘 구현 | [➜](https://github.com/ITJEONG-DEV/2018_genetic_algorithm/) |
+| 2018_robot_arm_project | <image src=".images/unity.png" height=40>, <image src=".images/csharp.svg" height=40>, <image src=".images/arduino.png" width=50> | 창의적공학설계 과목 로봇팔 프로젝트 | [➜](https://github.com/icream-team/2018_robot_arm_project) |
+| 2018_robot_arm_arduino_part | <image src=".images/arduino.png" width=50> | 창의적공학설계 과목 로봇팔 프로젝트 - 아두이노 | [➜](https://github.com/icream-team/2018_robot_arm_arduino_part) |
+| Gourmet-Android | <image src=".images/androidstudio.png" height=40>, <image src=".images/java.png" height=40> | Stampfood 안드로이드 어플리케이션 개발 | [➜](https://github.com/mash-up-kr/Gourmet-Android) |
+| 2018_Arduino_Hangeul_Clock | <image src=".images/arduino.png" width=50> | 아누이노 한글 시계 개발 | [➜](https://github.com/awesome-kraken/2018_Arduino_Hangeul_Clock) |
 | 2018_To-be-Awesome-Green-Onion | <image src=".images/coronasdk.png" width=50>, <image src=".images/lua.png" height=40> | 교내 소프트웨어 공모전 출품작 | [➜](https://github.com/ITJEONG-DEV/2018_To-be-Awesome-Green-Onion) |
 
 <br>
@@ -38,6 +43,7 @@
 | 2019_funny_controller | <image src=".images/unity.png" height=40>, <image src=".images/csharp.svg" height=40> | 유니티로 funny controller로 플레이 가능한 게임 개발 | [➜](https://github.com/ITJEONG-DEV/2019_funny_controller/) |
 | 2019_openCV | <image src=".images/csharp.svg" height=40> | openCV를 사용한 응용 프로그램. video to image, image to video 기능 제공 | [➜](https://github.com/ITJEONG-DEV/2019_openCV/) |
 | AnimalValley | <image src=".images/unity.png" height=40>, <image src=".images/csharp.svg" height=40> | 3D 프로그래밍 프로젝트. AnimalValley 게임 개발 | [➜](https://github.com/ITJEONG-DEV/AnimalValley) |
+| 2019_미세먼지해커톤 | <image src=".images/androidstudio.png" height=40>, <image src=".images/java.png" height=40> | 2019 미세먼지해커톤 참여 | [➜](2019_미세먼지해커톤/readme.md) |
 
 <br>
 
@@ -61,18 +67,17 @@
 | 2022_Vue3D_three.js | <image src=".images/vue.png" height=40>, <image src=".images/ts.png" height=40> | Vue와 three.js로 3D 뷰어 클라이언트 구현 | 🔒 |
 | 2022_Vite_three.js | <image src=".images/vue.png" height=40>, <image src=".images/ts.png" height=40> | Vue로 구현한 3D 뷰어 클라이언트를 Vite를 사용하도록 업그레이드 | 🔒 |
 | 2022_Dedenne-Bot | <image src=".images/python.png" width=40>, <image src=".images/mysql.svg" height=40> | 로스트아크 API를 이용하는 디스코드 봇 구현 | [➜](https://github.com/ITJEONG-DEV/2022_Dedenne-Bot) |
-| 2022_random_bot | <image src=".images/python.png" width=40> | 트위터 API를 이용한 랜덤 봇 구현 | |
+| 2022_random_bot | <image src=".images/python.png" width=40> | 트위터 API를 이용한 랜덤 봇 구현 | [➜](https://github.com/ITJEONG-DEV/2022_random_bot) |
 
 <br>
 
 ### 2023
 | 레포지토리명 | 기술스택 | 설명 | 링크 |
 | :--------: | :--------: | :--------: | :--------: |
-| 2023_Lostark-Bot | <image src=".images/python.png" width=40> | 로스트아크 API와 트위터 API를 이용한 로아 컨텐츠 안내 봇 구현 | |
-| 2023_electron-unreal | <image src=".images/electron.png" height=40>, <image src=".images/js.png" height=40> | 일렉트론에서 웹페이지를 불러오고, 3D 프로그램을 임베드하여 하나의 프로그램으로 통합 | |
-| 2023_py_algorithm | <image src=".images/python.png" width=40> | python으로 알고리즘 | |
-| 2023_OutlierDetection | <image src=".images/python.png" width=40> | pyod 패키지를 이용한 이상 감지 알고리즘 테스트 | |
-| electron-updator | <image src=".images/electron.png" width=40>, <image src=".images/js.png" height=40> | 일렉트론에서의 자동 업데이트 기능 구현 | |
+| 2023_Lostark-Bot | <image src=".images/python.png" width=40>, <image src=".images/mysql.svg" height=40> | 로스트아크 API와 트위터 API를 이용한 로아 컨텐츠 안내 봇 구현 | [➜](https://github.com/ITJEONG-DEV/2023_Lostark-Bot) |
+| 2023_electron-unreal | <image src=".images/electron.png" height=40>, <image src=".images/js.png" height=40> | 일렉트론에서 웹페이지를 불러오고, 3D 프로그램을 임베드하여 하나의 프로그램으로 통합 | 🔒 |
+| 2023_OutlierDetection | <image src=".images/python.png" width=40> | pyod 패키지를 이용한 이상 감지 알고리즘 테스트 | 🔒 |
+| electron-updator | <image src=".images/electron.png" width=40>, <image src=".images/js.png" height=40> | 일렉트론에서의 자동 업데이트 기능 구현 | 🔒 |
 
 <br>
 <br>

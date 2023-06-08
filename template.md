@@ -17,7 +17,15 @@ description
 
 | CoronaSDK | lua |
 | :--------: | :--------: |
-|   <img src="/.images/.png" width="200" height="180"/>   |   <img src="/.images/.png" width="200" height="200"/>    |
+|   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/main/.images/coronasdk.png" width="200" height="180"/>   |   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/main/.images/lua.png" width="180" height="180"/>    |
+
+<br>
+
+## 기술 스택
+
+| CoronaSDK | lua |
+| :--------: | :--------: |
+|   <img src="" width="200" height="180"/>   |   <img src="/.images/.png" width="200" height="200"/>    |
 
 <br>
 
