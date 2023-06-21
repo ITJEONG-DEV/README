@@ -52,21 +52,21 @@
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2021_algorithm | <image src=".images/cpp.svg" height=40> | 백준 알고리즘 문제 풀기 | 2021 | [➜](https://github.com/ITJEONG-DEV/2021_algorithm/) |
 | 2021_socket_client | <image src=".images/c.svg" height=40> | 네트워크 과제. 정해진 프로토콜에 맞는 기능 구현 | 2021 | [➜](https://github.com/ITJEONG-DEV/2021_socket_client) |
-| keras-yolo3 | <image src=".images/python.png" width=40> | 2021 | (수업 조교) 물체 탐지를 위한 keras-yolo3 사용. 수업 가이드를 위해 keras-yolo3 프로젝트 fork함 | [➜](https://github.com/ITJEONG-DEV/keras-yolo3) |
+| keras-yolo3 | <image src=".images/python.png" width=40> |  (수업 조교) 물체 탐지를 위한 keras-yolo3 사용. 수업 가이드를 위해 keras-yolo3 프로젝트 fork함 | 2021 | [➜](https://github.com/ITJEONG-DEV/keras-yolo3) |
 
 <br>
 
 ### 2022
 | 레포지토리명 | 기술스택 | 설명 | 개발 기간 | 링크 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
-| 2022_CSharp_Study | <image src=".images/csharp.svg" height=40> | 프로그래머스 알고리즘 문제 풀기 | 2022 | [➜](https://github.com/ITJEONG-DEV/2022_CSharp_Study) |
+| 2022_CSharp_Study | <image src=".images/csharp.svg" height=40> | 프로그래머스 알고리즘 문제 풀기 | 2022 ~ 2023 | [➜](https://github.com/ITJEONG-DEV/2022_CSharp_Study) |
 | 2022_Unity2D | <image src=".images/unity.png" height=40>, <image src=".images/csharp.svg" height=40> | 유니티 무료 애셋을 이용한 간단한 게임 구현 | 2022 | [➜](https://github.com/ITJEONG-DEV/2022_Unity2D) |
 | 2022_js | <image src=".images/js.png" height=40> | js 공부 | 2022 | [➜](https://github.com/ITJEONG-DEV/2022_js) |
 | 2022_snake_game | <image src=".images/js.png" height=40>, <image src=".images/mysql.svg" height=40> | 뱀 게임 개발, 랭킹 서버 구현, DB 구축 | 2022 | [➜](https://github.com/ITJEONG-DEV/2022_snake_game) |
 | 2022_ASP.NET_Vue_TypeScript | <image src=".images/vue.png" height=40>, <image src=".images/ts.png" height=40>, <image src=".images/csharp.svg" height=40> | 센서 웹 서비스 구축, 3D 뷰어 클라이언트 기능 추가 | 2022 | 🔒 |
 | 2022_Vue3D_three.js | <image src=".images/vue.png" height=40>, <image src=".images/ts.png" height=40> | Vue와 three.js로 3D 뷰어 클라이언트 구현 | 2022 | 🔒 |
 | 2022_Vite_three.js | <image src=".images/vue.png" height=40>, <image src=".images/ts.png" height=40> | Vue로 구현한 3D 뷰어 클라이언트를 Vite를 사용하도록 업그레이드 | 2022 | 🔒 |
-| 2022_Dedenne-Bot | <image src=".images/python.png" width=40>, <image src=".images/mysql.svg" height=40> | 로스트아크 API를 이용하는 디스코드 봇 구현 | 2022 ~ | [➜](https://github.com/ITJEONG-DEV/2022_Dedenne-Bot) |
+| 2022_Dedenne-Bot | <image src=".images/python.png" width=40>, <image src=".images/mysql.svg" height=40> | 로스트아크 API를 이용하는 디스코드 봇 구현 | 2022 ~ 2023 | [➜](https://github.com/ITJEONG-DEV/2022_Dedenne-Bot) |
 | 2022_random_bot | <image src=".images/python.png" width=40> | 트위터 API를 이용한 랜덤 봇 구현 | 2022 | [➜](https://github.com/ITJEONG-DEV/2022_random_bot) |
 
 <br>
@@ -79,6 +79,7 @@
 | 2023_electron-unreal | <image src=".images/electron.png" height=40>, <image src=".images/js.png" height=40> | 일렉트론에서 웹페이지를 불러오고, 3D 프로그램을 임베드하여 하나의 프로그램으로 통합 | 2023 ~ | 🔒 |
 | 2023_OutlierDetection | <image src=".images/python.png" width=40> | pyod 패키지를 이용한 이상 감지 알고리즘 테스트 | 2023 | 🔒 |
 | electron-updator | <image src=".images/electron.png" width=40>, <image src=".images/js.png" height=40> | 일렉트론에서의 자동 업데이트 기능 구현 | 2023 | 🔒 |
+| 2023_Dedenne-Bot_v2 | <image src=".images/python.png" width=40> | 로스트아크 API를 이용하는 디스코드 봇 구현 | 2023 | [➜](https://github.com/ITJEONG-DEV/2023_Dedenne-Bot_v2) |
 
 <br>
 <br>
